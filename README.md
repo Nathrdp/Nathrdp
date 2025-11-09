@@ -16,7 +16,7 @@
 
 - 🎓 Estudante de Sistemas de Informação na PUC MG  
 - 🌱 Atualmente aprendendo: **HTML, CSS, JavaScript, SQL, Java, C#**  
-- 💜 Amante de roxo/lilás, MPB e de gatinhos!  
+- 💜 Amante de roxo/lilás e MPB!  
 - 🖥️ Começando agora, busco crescer na área de tecnologia e desenvolvimento  
 
 ---
